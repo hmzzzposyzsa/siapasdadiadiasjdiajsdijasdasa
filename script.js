@@ -327,4 +327,4 @@ function getStarSvg() {
 window.addEventListener('DOMContentLoaded', fetchStoreData);
 
 // GANTI LOGO — isi URL gambar di sini
-const LOGO_URL = "https://cdn.discordapp.com/attachments/1456563448090722432/1521166822110400652/IMG_20260628_223023_644.webp?ex";
+const LOGO_URL = "https://media.discordapp.net/attachments/1456563448090722432/1521166822110400652/IMG_20260628_223023_644.webp?ex=6a448140&is=6a432fc0&hm=49b20ade1766cbe5e4676dc1db62646f63d2269708030ee42ab73eba4a1bf066&=&format=webp&width=1006&height=1006";
